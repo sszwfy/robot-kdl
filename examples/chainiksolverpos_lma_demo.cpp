@@ -51,10 +51,10 @@ estimate of shortest time per invposkin (ms) 0.155544
 
 #include <iostream>
 #include <frames_io.hpp>
-#include <models.hpp>
 #include <chainiksolverpos_lma.hpp>
 #include <chainfksolverpos_recursive.hpp>
 #include <boost/timer.hpp>
+#include "models.hpp"
 
 /**
  * tests the inverse kinematics on the given kinematic chain for a
