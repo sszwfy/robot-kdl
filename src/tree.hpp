@@ -22,8 +22,6 @@
 #ifndef KDL_TREE_HPP
 #define KDL_TREE_HPP
 
-#include "config.h"
-
 #include "segment.hpp"
 #include "chain.hpp"
 
